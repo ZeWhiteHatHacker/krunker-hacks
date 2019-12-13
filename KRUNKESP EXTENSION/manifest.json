@@ -1,0 +1,32 @@
+{
+    "name": "-NEW- KrunkESP 1.9.2",
+    "version": "1.0",
+    "author": "BayMaxYT",
+    "icons": {
+        "16": "/img/icons/icon_16.png",
+        "48": "/img/icons/icon_48.png",
+        "128": "/img/icons/icon_128.png"
+    },
+
+    "description": "Injects new Krunker ESP by BayMaxYT",
+    "permissions": [
+        "background", "tabs", "webRequest", "storage", "activeTab", "webRequestBlocking", "*://*.krunker.io/*"
+    ],
+    "background": {
+        "scripts": ["/js/bg.js"]
+    },
+    "content_scripts": [{
+        "matches": ["*://*.krunker.io/*"],
+        "js": [
+            "/js/main.js"
+        ]
+    }],
+    
+    "options_page": "/html/options.html",
+
+    "browser_action": {
+        "default_title": "BayMaxYT KrunkESP"
+      },
+
+    "manifest_version": 2
+}

@@ -6,7 +6,6 @@ A repo for all my Krunker hacks. Will be kept updated
 + Latest version (1.1) KrunkESP WORKING!
 ! Working on update for Krunker 1.9.3 & Full aimbot hack
 ```
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ZeWhiteHatHacker/krunker-hacks?color=green&include_prereleases&logo=green&logoColor=green&style=for-the-badge)
 
 ## How to install
 
@@ -29,12 +28,12 @@ Fire up [Krunker](http://bit.ly/KrUnKeRiO)
 
 
 ## Releases
-**[KrunkESP ESP HACK EXTENSION]()**
-**[GuestTroyer (coming soon)]()**
-more to come!
+- ![KrunkESP status download badge)](https://img.shields.io/badge/KrunkESP-Working!-brightgreen)
+- ![GuestTroyer status download badge)](https://img.shields.io/badge/GuestTroyer-Unavailable-red)
+- more to come!
 
 
-
+-----------------------------------------------------------------
 ![Using color in .md screenshot](https://i.imgur.com/1R379g7.png)
 ------------------------------------------------------------------
 [BayMaxYT](https://bit.ly/BayMaxYT)

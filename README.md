@@ -3,10 +3,10 @@ A repo for all my Krunker hacks. Will be kept updated
 
 > **Current status:**
 ```diff
-- Latest version (1.3) OUTDATED!
-! Working on update for Krunker 1.9.3!
++ Latest version (1.1) KrunkESP WORKING!
+! Working on update for Krunker 1.9.3 & Full aimbot hack
 ```
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ZeWhiteHatHacker/krunker-hacks?color=green&include_prereleases&logo=green&logoColor=green&style=for-the-badge)(https://bit.ly/BayMaxYT) 
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ZeWhiteHatHacker/krunker-hacks?color=green&include_prereleases&logo=green&logoColor=green&style=for-the-badge)
 
 ## How to install
 
@@ -18,14 +18,14 @@ A repo for all my Krunker hacks. Will be kept updated
 5. Drag the latest version's tagged folder onto the Chrome Extensions page.
 
 > **Script Hacks**
-1. Downoad this reopsitory [HERE](http://bit.ly/2QWwRI2)
+1. Downoad this reopsitory [HERE](http://bit.ly/BayMaxMakesMoney)
 2. Extract the zip to your Desktop using [WinRAR](http://bit.ly/winrarinstall)
-3. Install [Tampermonkey]()
+3. Install [Tampermonkey](http://bit.ly/TampermonkeyExt)
 4. Click on the version you want to get below
 
 
 Fire up [Krunker](http://bit.ly/KrUnKeRiO)
-[Subscribe to BayMax! pls pls pls](https://bit.ly/BayMaxYT)
+[Subscribe to BayMax! pls](https://bit.ly/BayMaxYT)
 
 
 ## Releases

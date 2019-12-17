@@ -3,7 +3,7 @@ A repo for all my Krunker hacks. Will be kept updated
 
 > **Current status:**
 ```diff
-+ Latest KrunkHack (1.4) working!
++ Latest GuesTroyer (1.4) working!
 - Latest version (1.1) KrunkESP NOT WORKING!
 ```
 
@@ -28,8 +28,8 @@ Fire up [Krunker](http://bit.ly/KrUnKeRiO)
 
 
 ## Releases
-- ![KrunkESP status download badge)](https://img.shields.io/badge/KrunkESP-Working!-brightgreen)
-- ![GuestTroyer status download badge)](https://img.shields.io/badge/GuestTroyer-Unavailable-red)
+- ![GuestTroyer status download badge)](https://img.shields.io/badge/GuesTroyer-Working-Brightgreen)
+- ![KrunkESP status download badge)](https://img.shields.io/badge/KrunkESP-Unavailable-red)
 - more to come!
 
 

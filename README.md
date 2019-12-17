@@ -3,8 +3,8 @@ A repo for all my Krunker hacks. Will be kept updated
 
 > **Current status:**
 ```diff
-+ Latest version (1.1) KrunkESP WORKING!
-! Working on update for Krunker 1.9.3 & Full aimbot hack
++ Latest KrunkHack (1.4) working!
+- Latest version (1.1) KrunkESP NOT WORKING!
 ```
 
 ## How to install

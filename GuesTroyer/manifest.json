@@ -1,0 +1,33 @@
+{
+  "name": "GuesTroyer",
+  "description": "Stomp some Guests! bit.ly/baymaxyt",
+  "version": "1.4",
+  "manifest_version": 2,
+  "web_accessible_resources": ["main.min.js", "worldgen.min.js"],
+  "author": "BayMaxYT",
+  "icons": {
+    "16": "/img/icon_16.png",
+    "32": "/img/icon_32.png",
+    "48": "/img/icon_48.png",
+    "128": "/img/icon_128.png"
+    },
+
+  "permissions": [
+    "background", "tabs", "webRequest", "storage", "activeTab", "webRequestBlocking", "*://*.krunker.io/*"
+    ],
+
+  "content_scripts": [
+    {"matches":["*://*.krunker.io/*"],
+    "run_at": "document_start",
+    "js": ["/js/start.js"],"all_frames":true,"match_about_blank":true}],
+
+    "background": {
+      "scripts": ["/js/bg.js"]
+     },
+
+  "options_page": "/html/options.html",
+
+  "browser_action": {
+    "default_title": "BayMaxYT GuesTroyer"
+     }
+}

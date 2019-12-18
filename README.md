@@ -34,4 +34,4 @@ Fire up [Krunker](http://bit.ly/KrUnKeRiO) &
 ------------------------------------------------------------------
 > - [BayMaxYT](https://bit.ly/BayMaxYT)
 
-> - [Make money online EASY](https://bit.ky/BayMaxMakesMoney)
+> - [Make money online EASY](https://bit.ly/BayMaxMakesMoney)

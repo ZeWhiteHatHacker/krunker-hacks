@@ -27,12 +27,10 @@ Fire up [Krunker](http://bit.ly/KrUnKeRiO) &
 
 
 ## Releases
-- ![GuestTroyer status download badge)](https://img.shields.io/badge/GuesTroyer-Working-Brightgreen) **[DOWNLOAD]**(http://bit.ly/GuesTroyer)
+- ![GuestTroyer status download badge)](https://img.shields.io/badge/GuesTroyer-Working-Brightgreen) **[DOWNLOAD](http://bit.ly/GuesTroyer)**
 - ![KrunkESP status download badge)](https://img.shields.io/badge/KrunkESP-Unavailable-red)
 - more to come!
 
-
------------------------------------------------------------------
-![Using color in .md screenshot](https://i.imgur.com/1R379g7.png)
 ------------------------------------------------------------------
 [BayMaxYT](https://bit.ly/BayMaxYT)
+[Make money online EASY](https://bit.ky/BayMaxMakesMoney)

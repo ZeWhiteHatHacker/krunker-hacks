@@ -22,7 +22,7 @@ A repo for all my Krunker hacks. Will be kept updated
 3. Hit "Install"
 
 
-Fire up [Krunker](http://bit.ly/KrUnKeRiO)
+Fire up [Krunker](http://bit.ly/KrUnKeRiO) & 
 [Subscribe to BayMax! pls](https://bit.ly/BayMaxYT)
 
 

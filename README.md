@@ -27,7 +27,7 @@ Fire up [Krunker](http://bit.ly/KrUnKeRiO) &
 
 
 ## Releases
-- ![GuestTroyer status download badge)](https://img.shields.io/badge/GuesTroyer-Unavailable-Brightgreen) **[DOWNLOAD](http://bit.ly/GuesTroyer)**
+- ![GuestTroyer status download badge)](https://img.shields.io/badge/GuesTroyer-Unavailable-red) **[DOWNLOAD](http://bit.ly/GuesTroyer)**
 - ![KrunkESP status download badge)](https://img.shields.io/badge/KrunkESP-Unavailable-red)
 - more to come!
 

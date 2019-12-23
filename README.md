@@ -3,7 +3,7 @@ A repo for all my Krunker hacks. Will be kept updated
 
 > **Current status:**
 ```diff
-+ Latest GuesTroyer (1.4) working!
+- Latest GuesTroyer (1.4) PATCHED! Working on update for 1.9.3
 - Latest version (1.1) KrunkESP NOT WORKING!
 ```
 

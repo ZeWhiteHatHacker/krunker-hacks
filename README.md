@@ -3,6 +3,7 @@ A repo for all my Krunker hacks. Will be kept updated
 
 > **Current status:**
 ```diff
++ Latest GuesTroyer (2.1.8)                -             WOKRING! Updated for Krunker 2.1.8
 - Latest GuesTroyer (1.4)                  -             PATCHED! Working on update for 1.9.7
 - Latest KrunkESP (1.1)                    -             NOT WORKING! Not my main focus at the moment.
 ```
@@ -33,5 +34,5 @@ Fire up [Krunker](http://bit.ly/KrUnKeRiO) &
 
 ------------------------------------------------------------------
 > - [BayMaxYT](https://bit.ly/BayMaxYT)
-
+> - [Get Brave now. By the creator of JavaScript and Firefox](https://bit.ly/getbravebrowser2020)
 > - [Make money online EASY](https://bit.ly/BayMaxMakesMoney)
